@@ -15,11 +15,11 @@ function App() {
       <Botoncito texto="Botón 3" color="azul" onClick={() => manejarClick("botón azul.")} />
        <div className="card-container">
       <Card nombre="Lin Carbajales" profesion="Escritora de terror" color="verde" foto="./src/assets/lin.jpg"
-        descripcion="Fan del terror de videoclub y autora de Inhumano, la novela ganadora del II premio Lestat de Lioncourt."
+        descripcion="Fan del terror de videoclub y autora de Inhumano, la novela ganadora del II premio Lestat de Dimensiones Ocultas."
         onClick={() => manejarClick("el perfil de Lin.")}
       />
-      <Card nombre="Marisol Mancera" profesion="Desarrolladora web" color="azul" foto="./src/assets/marisol.jpg"
-        descripcion="Cuidadora de gatos y desarrolladora de la nueva y mejorada web de Videoclub 85, negocio de Gijón."
+      <Card nombre="Marisol Mancera" profesion="Desarrolladora web full stack" color="azul" foto="./src/assets/marisol.jpg"
+        descripcion="Cuidadora de gatos, diseñadora y desarrolladora de la nueva y mejorada web de Videoclub 85, negocio de Gijón."
         onClick={() => manejarClick("el perfil de Marisol.")}
       />
       <Card nombre="Milca Ponce" profesion="Relaciones públicas" color="rojo" foto="./src/assets/milca.jpg"

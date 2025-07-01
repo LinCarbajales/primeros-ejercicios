@@ -1,0 +1,23 @@
+.botoncito {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.rojo {
+  background-color: red;
+  color: white;
+}
+
+.verde {
+  background-color: green;
+  color: white;
+}
+
+.azul {
+  background-color: blue;
+  color: white;
+}

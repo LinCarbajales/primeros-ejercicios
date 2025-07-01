@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>Hola caracola</h1>
+      <h1>Ejercicio de React</h1>
       <Botoncito texto="Botón 1" color="rojo" onClick={() => manejarClick("botón rojo.")} />
       <Botoncito texto="Botón 2" color="verde" onClick={() => manejarClick("botón verde.")} />
       <Botoncito texto="Botón 3" color="azul" onClick={() => manejarClick("botón azul.")} />
